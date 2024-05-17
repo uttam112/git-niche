@@ -1,5 +1,13 @@
 Binary Exponentiation
 Binary Search
 Binary Lifting
-//git restore --staged functions.txt
+
+Unstaging a file
+//git restore --staged functions.txt --> git reset HEAD -- functions.txt
+
+Looking at the commit history
+// git log
+
+//-r or -R: This is the recursive option that tells rm to delete the directory and its contents recursively.
+//-f: This is the force option that tells rm to ignore nonexistent files and arguments, and never prompt before removing.
 
