@@ -11,3 +11,8 @@ Looking at the commit history
 //-r or -R: This is the recursive option that tells rm to delete the directory and its contents recursively.
 //-f: This is the force option that tells rm to ignore nonexistent files and arguments, and never prompt before removing.
 
+
+// git remote add origin "link"
+Now origin will serve as the link
+
+// git push origin master<the branch you want to push>
