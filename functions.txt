@@ -15,4 +15,7 @@ Looking at the commit history
 // git remote add origin "link"
 Now origin will serve as the link
 
-// git push origin master<the branch you want to push>
+To return to a previous commit
+// git checkout <hashcode>
+
+// git push origin master <the branch you want to push>
